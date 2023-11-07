@@ -44,6 +44,8 @@ add a line to the README.md
 
 yo my boy.
 
+I was going to say this is a terrible repo, but I realize this repo is probably actually good compared to other beginner repos
+
 its great to be a part of it
 
 MODIFYING FILES!
